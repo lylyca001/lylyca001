@@ -1,4 +1,4 @@
-- 👋 Ola, me chamo lylyca
+- 👋 Ola, eu me chamo lylyca
 - 👀 EStou desenvolvendo interesse em programação 
 - 📫 Meu apelido é lyly
 - 😄 Meus pronomes são ela/dela
