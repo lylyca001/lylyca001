@@ -1,6 +1,6 @@
-- 👋 Ola, eu me chamo lylyca
+- 👋 **Ola, eu me chamo Lyandra**
 - 👀 EStou desenvolvendo interesse em programação 
-- 📫 Meu apelido é lyly
+- 📫 Utilizo o Alura para a prendizagem de desenvolvimentos de progetos
 - 😄 Meus pronomes são ela/dela
 - ⚡ Uma fato sobre mim é que eu amo jogar vôlei
 <!---
